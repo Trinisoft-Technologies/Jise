@@ -38,11 +38,5 @@
     "tailwindcss": "^4",
     "typescript": "^5"
   },
-  "packageManager": "pnpm@11.20.0",
-  "devEngines": {
-    "packageManager": {
-      "name": "pnpm",
-      "version": "11.20.0"
-    }
-  }
+  "packageManager": "npm@10.9.3"
 }
