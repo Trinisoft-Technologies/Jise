@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Jise | Good food. Right on time.",
-  description: "Simple, reliable food delivery for Lagos.",
+  title: "Jise | Logistics made simple.",
+  description: "Trackable, reliable logistics for businesses across Nigeria. Moving goods from warehouse to doorstep.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
